@@ -17,7 +17,7 @@ Create a logo for your selected brand in Adobe Illustrator.
   * Is it a piece of clothing/accessory that's given away as swag?
   * You don't have to decide until after midterm, but it's helpful to keep this next project in mind while you're designing.
 
-####LOGO 1st Draft  
+#### LOGO 1st Draft  
 * **At least 10 different logo ideas**, iterating on the visual character of your selected brand **ALL in grayscale (this includes black & white)**
 * One logo per 8 1/2 x 11 (letter) dimensions for a total of at least 10 images
   * at least 3 should be done digitally
@@ -44,26 +44,65 @@ Create a logo for your selected brand in Adobe Illustrator.
 * Bring in as much of your process between your 2nd and final drafts as you feel is important to explain how you arrived at your final design.
   * **Remember: Process is just as important as final product!**
 
+### Due Dates and Groups:
 
-Section A:
+**Schedule**
+
+- Tuesday, Feb 26 - Group A Draft 1 pin-up
+- Thursday, Feb 28 - Group B Draft 1 pin-up
+
+- Tuesday, March 5 - Group A Draft 2, one-on-one desk crits and peer-to-peer crits
+- Thursday, March 7 - Group B Draft 2, one-on-one desk crits and peer-to-peer crits
+
+- Tuesday, March 12 - Group A Final Draft - pin-up (midterm)
+- Thursday, March 14 - Group B Final Draft - pin-up (midterm)
+
+**Groups**
+
+**VFS Section A:**
 Group A:
-Alex Baumann
-Kasper
-Clara
-Karen
-Jack
-Marcus
-Peter
-Gab Olanday
-Aron
-Group B:
-Saul
-N'ya
-Alex Fife
-Cameron
-Brian
-Lucy
-Gabriel Ong
-Darshana
-Jason
+- Alex Baumann
+- Kasper
+- Clara
+- Karen
+- Jack
+- Marcus
+- Peter
+- Gab Olanday
+- Aron  
 
+Group B:
+- Saul
+- N'ya
+- Alex Fife
+- Cameron
+- Brian
+- Lucy
+- Gabriel Ong
+- Darshana
+- Jason
+
+**VFS Section B:**
+Group A:
+
+- Amanda
+- Mia
+- Vanda
+- Shannon
+- Sahana
+- Vida
+- Taline
+- Junwei
+- Oliwia
+
+Group B:
+
+- Jide
+- Kevin
+- Sophia
+- Nandita
+- Ellie
+- Leslie
+- Amanuel
+- Jessica
+- Shatil
