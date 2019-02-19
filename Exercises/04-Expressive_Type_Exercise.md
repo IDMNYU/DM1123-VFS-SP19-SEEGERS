@@ -13,6 +13,6 @@ Tuesdays & Thursdays • 12:30-2:20PM & 2:30-4:20PM • 2MTC MAGNET 811 • 3 cr
 
 - Post to the Slack channel #exercise-expresstype, a 4-page PDF saved from Illustrator with the following:
   1. Choose an adjective or adverb (e.g. colorful, fast, excited, movement) and express the meaning of the word/idea through ONLY the choice of a typeface and subsequent spacing, sizing, and placement of letters on the page.
-  2. In addition to performing changes in scale or acts of cutting, cropping, shifting, turning, repeating, smudging, bulging, or otherwise transforming the letterforms. You should experiment with editing letterforms by manipulating the outlines of the letters (In the Illustrator menu, type-->convert text to outlines), and you may also create your own letterforms.
+  2. Using the same word you chose for page 1 above, experiment with editing letterforms by manipulating the outlines of the letters (In the Illustrator menu, type-->convert text to outlines), and you may also create your own letterforms in addition to performing changes in scale or acts of cutting, cropping, shifting, turning, repeating, smudging, bulging, or otherwise transforming the letterforms. 
   3. Choose a proper noun (name, place, person, but not your own name) and imagine what character and qualities it could visually communicate, using a typeface of your choice.
   4. Using the same proper noun, express the opposite character, using a different selected typeface, and by manipulating the letterforms using techniques developed in step 2.
