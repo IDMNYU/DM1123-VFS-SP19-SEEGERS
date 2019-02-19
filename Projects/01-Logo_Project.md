@@ -9,7 +9,7 @@
 ## PROJECT 1: LOGO
 Create a logo for your selected brand in Adobe Illustrator.
 
-####Decide on your Brand, Organization, Company, etc.
+#### Decide on your Brand, Organization, Company, etc.
 * Select a 4-6 character combination of letters and/or numbers.
 * Write a few sentences describing the brand/organization/company, things like its name (is it an abbreviation for something, like NYU?), what it does, who its audience is, etc. Feel free to bring in more than one brand if you're not sure.
 * Throughout the semester, we’ll be investigating ways to visually communicate this brand, through creating an identity system which will consist of a logo and a physical application of the logo. Consider what kind of physical object you may want to fabricate and how it communicates the identity of the brand/organization/company
