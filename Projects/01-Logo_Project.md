@@ -45,4 +45,25 @@ Create a logo for your selected brand in Adobe Illustrator.
   * **Remember: Process is just as important as final product!**
 
 
+Section A:
+Group A:
+Alex Baumann
+Kasper
+Clara
+Karen
+Jack
+Marcus
+Peter
+Gab Olanday
+Aron
+Group B:
+Saul
+N'ya
+Alex Fife
+Cameron
+Brian
+Lucy
+Gabriel Ong
+Darshana
+Jason
 
