@@ -196,18 +196,18 @@ See appendices for all of the following:
 * [End of Semester Deliverables](projects/End_of_Semester_Deliverables.md)
 
 #### Projects
-*  [01-Logo_Project](Projects\01-Logo_Project.md) 
-*  [02-Physical_Application](Projects\02-Physical_Application.md) 
-*  [03-Interface_Project](Projects\03-Interface_Project.md) 
+*  [01-Logo_Project](Projects/01-Logo_Project.md) 
+*  [02-Physical_Application](Projects/02-Physical_Application.md) 
+*  [03-Interface_Project](Projects/03-Interface_Project.md) 
 
 #### Assignments
-*  [Reading_Responses.md](Projects\Reading_Responses.md) 
+*  [Reading_Responses.md](Projects/Reading_Responses.md) 
 
 *  [Self_Assessments & Letter to Next Cohort.md](Projects\Self_Assessments.md) 
 
-*  [Show_and_Tells.md](Projects\Show_and_Tells.md) 
+*  [Show_and_Tells.md](Projects/Show_and_Tells.md) 
 
-*  [Tickets_to_Leave.md](Projects\Tickets_to_Leave.md) 
+*  [Tickets_to_Leave.md](Projects/Tickets_to_Leave.md) 
 
   
 
