@@ -10,9 +10,9 @@
 Your final logo in color in a physical, applied state (i.e. packaging, signage, apparel, business cards, stickers, poster announcing an event etc.). Your choice for your logo’s applied state is up to you. You decide. There are literally hundreds of possible applied states. 
 
 #### DUE DATES:
-- 1st Draft: November 6
-- 2nd Draft: November 13
-- Final Draft: December 13 (our **FINAL** class)
+- 1st Draft: Tues, April 2
+- 2nd Draft: Tues, April 9
+- Final Draft: May 9 (our **FINAL** class)
 
 
 #### Physical Application 1st Draft    
