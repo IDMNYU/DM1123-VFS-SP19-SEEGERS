@@ -7,7 +7,7 @@
 
 
 ## PROJECT 3: TIME INTERFACE
-Using InDesign, you will design a mobile interface (app) for a time app. This could be a clock, a time-keeper, a stopwatch, something that keeps track of cyclical time
+Using InDesign, you will design a mobile interface (app) for a time app. This could be a clock, a time-keeper, a stopwatch, something that keeps track of cyclical time, but can be any representation of time, presented on a mobile phone screen size.
 
 
 
