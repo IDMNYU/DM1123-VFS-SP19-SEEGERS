@@ -17,7 +17,7 @@ This should be compiled using Adobe InDesign. The visual foundation principles w
 PDF Cover:
 
 * Your first and last name
-* Visual Foundation Studio 2018 or VFS 2018 
+* Visual Foundation Studio Spring 2019 or VFS Spring 2019 
 
 Before each assignment, a header that labels each project (See below.)
 
@@ -49,13 +49,13 @@ Folders:
 * 09 Physical Application–Final
 * 10 End of Semester Book - Final
 
-All assignments should be native illustrator files (.ai), photoshop files (.psd), and indesign files (.indd)
+All assignments placed in your InDesign document should be native illustrator files (.ai), photoshop files (.psd), and indesign files (.indd), NOT exported derivative files.
 
 Make sure that any type in illustrator has been converted to outlines or include the typeface(s) in the folder(s) instead.
 
 Make sure that images are included if they are not embedded within illustrator.
 
-**To do this, use the PACKAGE (File->Package) command in InDesign. See the video tutorial here: https://helpx.adobe.com/indesign/how-to/indesign-package-files-for-handoff.html**
+**To do this in InDesign, use the PACKAGE (File->Package) command in InDesign. See the InDesign video tutorial here: https://helpx.adobe.com/indesign/how-to/indesign-package-files-for-handoff.html**
 
 
 #### Letter to Next Cohort
